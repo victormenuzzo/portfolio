@@ -6,7 +6,7 @@ $github-color: #343434;
 $linkedin-color: #0073a4;
 $facebook-color: #3d5b99;
 $google-color: #e64a41;
-$pinterest-color: #bd081c;
+$kaggle-color: #bd081c;
 $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
@@ -57,9 +57,9 @@ $rss-color: #ff6600;
   @include social-media-icon($google-color, $icon-transition-time);
 }
 
-.fa-pinterest {
+.fa-kaggle {
   padding: 5px;
-  @include social-media-icon($pinterest-color, $icon-transition-time);
+  @include social-media-icon($kaggle-color, $icon-transition-time);
 }
 
 .fa-medium {
