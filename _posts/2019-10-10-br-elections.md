@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Graph Analysis of the Brazilian Election"
+title: "Graph Analysis of the Brazilian Elections"
 author: "Victor Menuzzo"
 created: Future work
 categories: projects
