@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "About the Author"
+title: "test"
 author: "Paul Le"
-categories: facts
+categories: projects
 tags: [sample]
 image: cuba-4.jpg
 ---
