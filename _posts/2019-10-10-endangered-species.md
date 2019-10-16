@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
-categories: sample
+title: "Endangered Species Analysis"
+author: "Victor Menuzzo"
+categories: projects
+created: Future work
 tags: [sample]
-image: arctic-1.jpg
+image: animals-1.jpg
 ---
 
 # Markdown Support
