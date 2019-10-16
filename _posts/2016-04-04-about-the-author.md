@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "test"
+title: "About the Author"
 author: "Paul Le"
 categories: projects
 tags: [sample]
