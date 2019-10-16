@@ -14,8 +14,8 @@ menu:
 social:
 - {icon: 'facebook', link: ''}
 - {icon: 'instagram', link: ''}
-- {icon: 'envelope', link: ''}
-- {icon: 'rss-square', link: 'feed.xml'}
+- {icon: 'github', link: ''}
+- {icon: 'kaggle', link: ''}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
