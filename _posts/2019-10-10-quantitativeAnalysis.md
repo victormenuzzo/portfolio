@@ -3,7 +3,7 @@ layout: post
 title: "Quantitative Analisys Using Financial Data"
 author: "Victor Menuzzo"
 categories: projects
-created: 2019-nov-10
+created:  November 12, 2019
 tags: [documentation,sample]
 image: finance-1.jpg
 ---
