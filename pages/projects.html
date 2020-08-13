@@ -4,10 +4,12 @@ title: Projects
 ---
 {% for post in site.categories.projects %}
   <a href="{{ site.github.url }}{{ post.url }}">
-    <div class="featured-posts" {% if post.image %}style="width:40%; height: 300px; background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }} <h4>Start Date: {{ post.created }}</h4> </span></h2>
-    </div>
-    <div class="featured-posts" style = "width:40%; height: 300px, color: red">
-    </div>
+    <div>
+      <div class="featured-posts" {% if post.image %}style="width:40%; height: 300px; background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+        <h2><span>{{ post.title }} <h4>Start Date: {{ post.created }}</h4> </span></h2>
+      </div>
+      <div class="featured-posts" style = "width:40%; height: 300px, color: red, float: left;">
+      </div>
+    <div>
   </a>
 {% endfor %}
